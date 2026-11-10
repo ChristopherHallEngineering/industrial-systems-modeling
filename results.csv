@@ -1,0 +1,4 @@
+configuration,airflow_normalized,pressure_drop_normalized,single_pass_efficiency,cadr_normalized,service_life_proxy
+Low-resistance media,408.24829,83.333333,0.356548,145.560192,171.750254
+Balanced media,372.677996,111.111111,0.552905,206.055576,145.591789
+High-loading media,319.438282,147.959184,0.790964,252.664101,178.102072
